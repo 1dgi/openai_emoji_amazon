@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="image1.png" width="45%" />
+  <img src="image2.png" width="45%" />
+</p>
+
 # Reclaiming the Unseen: Emoji-Encoded Spatial Intelligence for Rapid Archaeological Prospecting
 ## OpenAI → Z Challenge Submission – São Paulo Pilot
 
