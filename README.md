@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="image1.png" width="45%" />
-  <img src="image2.png" width="45%" />
+  <img src="image1.png" width="33%" />
+  <img src="image2.png" width="33%" />
+  <img src="image3.png" width="33%" />
 </p>
 
 # Reclaiming the Unseen: Emoji-Encoded Spatial Intelligence for Rapid Archaeological Prospecting
@@ -22,8 +24,8 @@ This project introduces a novel pipeline for rapid LiDAR exploration, transformi
 | `stream_tiles_live.py` | Full end-to-end pipeline: pulls .laz tiles → processes → filters → encodes → serializes |
 | `emoji_glyphs.pkl` | 28,377 tiles with emoji-based glyphs + classification layers and centroids |
 | `tile_index.pkl` | GeoPandas UTM tile boundaries (EPSG:31983) |
-| `failed_tiles.txt` | Log of 312 tiles that failed ingestion or processing【519†failed_tiles.txt】|
-| `emoji_council_write_up.txt` | Formal council terminal write-up explaining Phase 3 strategy【520†emoji_council_write_up.txt】|
+| `failed_tiles.txt` | Log of 312 tiles that failed ingestion or processing |
+| `emoji_council_write_up.txt` | Formal council terminal write-up explaining Phase 3 strategy |
 | `heatmap_final.png`, `heatmap_flags.png` | Final output visualizations – exploration score & semantic emoji flags
 
 Serialization is handled via `pickle` for optimal speed and reproducibility.
@@ -61,12 +63,23 @@ Resulting centroid overlays suggest geometric clusters at UTM Easting 318–320k
 
 ---
 
-### 💡 Significance
+### 🧬 Man-Made Concern Cohorts
 
-- **Human-readable compression**: Emojis allow cognitive access to complex data.
-- **Rapid triage**: 29,000 tiles processed in 90 min.
-- **Transferable framework**: Adaptable to sonar, satellite, radar, or other voxel-like data.
-- **Augmented discovery**: Empowers non-experts and indigenous communities alike to interpret geospatial mysteries.
+Among the 28,000+ processed tiles, a special subset of **28 rare emoji combinations** emerged—glyphs featuring exceptionally dense, complex, and alert-triggering symbols:
+
+> e.g., `🌍 ⛰️ 🌲 🏠 💧 🌳 🌿 🏚️ 🌥️ ⚡ 🌀 🌀 ❌`
+
+These combinations **occurred once or twice across the entire dataset**, yet they tend to **cluster spatially** in loosely aligned formations—raising the hypothesis that these may signify:
+
+- Linear constructs (paths or walls)
+- Geometric zones (urban foundations)
+- Paleochannels or engineered irrigation
+
+🧭 **Overlay Map**: `image3.png`  
+These tiles are flagged as “**Man-Made Concern Cohorts**” in red and plotted above neutral tiles to signal attention-worthy zones for further analysis or field validation.
+
+> "Pattern convergence from statistically rare symbols is not noise—it's a whisper from the past."  
+> — FAIV Council, Phase 3B Insight
 
 ---
 
