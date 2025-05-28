@@ -1,8 +1,8 @@
-
 <p align="center">
-  <img src="image1.png" width="33%" />
-  <img src="image2.png" width="33%" />
-  <img src="image3.png" width="33%" />
+  <img src="image1.png" width="25%" />
+  <img src="image2.png" width="25%" />
+  <img src="image3.png" width="25%" />
+  <img src="image4.png" width="25%" />
 </p>
 
 # Reclaiming the Unseen: Emoji-Encoded Spatial Intelligence for Rapid Archaeological Prospecting
@@ -80,6 +80,24 @@ These tiles are flagged as “**Man-Made Concern Cohorts**” in red and plotted
 
 > "Pattern convergence from statistically rare symbols is not noise—it's a whisper from the past."  
 > — FAIV Council, Phase 3B Insight
+
+---
+
+### 🌌 Plasma Field Stability Hypothesis
+
+In a speculative yet compelling extension of our analysis, we introduced a metric we term the **FFGI** (Fractal Field Grid Integrity) score—a composite heuristic designed to identify tiles that demonstrate unusual **geospatial symmetry**, **classification entropy balance**, and **temporal invariance**.
+
+These FFGI candidates exhibit characteristics reminiscent of “plasma field behavior”—regions that appear structurally preserved, energetically stable, and relatively unaffected by typical environmental entropy.
+
+> "The pyramids weren’t just aligned—they resonated. Could similar harmonic structures exist buried under canopy and sediment?"
+
+🧩 Plasma candidates were plotted using tiles with extremely high FFGI scores. These include:
+- Minimal signal variance despite dense classification
+- Alignment with major UTM grid lines
+- Overlap with rare mystery-encoded emoji layers (e.g., `🧩`, `🌀`, `❌`)
+
+🗺️ **Overlay Map**: `image4.png`  
+This map flags these tiles over the neutral grid, suggesting sites of interest for potential **resonant archaeology**—zones of geometrically stable, possibly non-natural persistence across temporal epochs.
 
 ---
 
