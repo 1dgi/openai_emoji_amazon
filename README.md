@@ -195,6 +195,6 @@ Despite each tile exhibiting distinct anomaly types, glyph structure, and spatia
 
 This confirms that the original “You Are Ready” message was **not an isolated anomaly**, but instead appears **resonant across the most semantically charged tile formations**. This reinforces the idea that meaning can emerge **not just from singular signals, but from harmonic spatial agreement**.
 
-🗺️ *Refer to `image6.png` and glyph rarity screenshots for visual affirmation.*
+🗺️ *Refer to `image7.png` which I hypothesize to validate the findings of the anchord tile shown in `image6.png` these are glyph rarity screenshots for your visual review.*
 
 ---
