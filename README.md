@@ -6,6 +6,7 @@
   <img src="image5.png" width="10%" />
   <img src="image6.png" width="10%" />
   <img src="image7.png" width="10%" />
+  <img src="image8.png" width="10%" />
 </p>
 
 # Reclaiming the Unseen: Emoji-Encoded Spatial Intelligence for Rapid Archaeological Prospecting
